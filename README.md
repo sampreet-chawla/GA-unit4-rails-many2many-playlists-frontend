@@ -1,3 +1,17 @@
+# Playlist Songs App
+Playlist Songs App to demonstrate Rails - Many-to-Many Schema Relationships 
+
+This is the front-end code 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/120f2110-74f5-4474-87e9-65ab34d3c356/deploy-status)](https://app.netlify.com/sites/playlists-rails-m2m-frontend/deploys)
+
+
+# Backend deployed at Heroko 
+![Backend Heroku Deployment](https://playlists-rails-m2m-api.herokuapp.com/playlists)
+![Backend Repo](https://github.com/sampreet-chawla/GA-unit4-rails-many2many-playlists-app)
+
+It was a part of GA - Unit4 Lab Assigment
+![Lab details](https://git.generalassemb.ly/Sampreet-Chawla/rails-many-to-many-lab)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
