@@ -6,10 +6,13 @@ This is the front-end code
 
 
 # Backend deployed at Heroko 
+
 [Backend Heroku Deployment](https://playlists-rails-m2m-api.herokuapp.com/playlists)
+
 [Backend Repo](https://github.com/sampreet-chawla/GA-unit4-rails-many2many-playlists-app)
 
 It was a part of GA - Unit4 Lab Assigment
+
 [Lab details](https://git.generalassemb.ly/Sampreet-Chawla/rails-many-to-many-lab)
 
 # Getting Started with Create React App
